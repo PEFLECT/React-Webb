@@ -5,20 +5,20 @@ body {
 
 
 .main-head{
-    height: 50px;
+    height: 150px;
     background: #FFF;
    
 }
 
 .sidenav {
-    height: 50%;
+    height: 100%;
     background-color: #000;
     overflow-x: hidden;
     padding-top: 20px;
 }
 
 
-.main { 
+.main {
     padding: 0px 10px;
 }
 
